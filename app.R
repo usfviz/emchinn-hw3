@@ -1,6 +1,6 @@
 rm(list=ls())
 cat("\014")
-setwd('~/DataViz/dataset_diabetes/')
+# setwd('~/DataViz/dataset_diabetes/')
 
 
 if(!require("tidyr")){
